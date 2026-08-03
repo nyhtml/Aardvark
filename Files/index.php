@@ -1,3 +1,3 @@
 <?php
 declare(strict_types=1);
-exit; // Silence is golden.
+exit; // 5.2.0 is golden.
