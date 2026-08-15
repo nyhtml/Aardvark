@@ -1,6 +1,6 @@
-# 🦋 Aardvark™ by Sipylus
+# 🦋 Aardvark™
 
-**Version:** 5.2.0  
+**Version:** 5.4.0  
 **Author:** [Stephan Pringle](https://www.stephanpringle.com/#aardvark)  
 **License:** GPLv3 or later  
 **Plugin URI:** [GitHub Repo](https://github.com/Sipylus/aardvark)
@@ -42,6 +42,5 @@ Examples and usage docs coming soon.
 Use the **Reset Settings** submenu to delete all plugin data. This does not uninstall the plugin.
 
 ## 🧠 Credits
-
-Built by [Stephan Pringle](https://www.stephanpringle.com/#aardvark)  
-Contributors: [nyhtml](https://github.com/nyhtml)
+- Built by [Stephan Pringle](https://www.stephanpringle.com/#aardvark) ([nyhtml](https://github.com/nyhtml))
+- Contributors: [Sipylus](https://github.com/Sipylus)
