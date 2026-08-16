@@ -1,9 +1,9 @@
 # 🦋 Aardvark™
 
-**Version:** 5.4.0  
+**Version:** 5.2.0  
 **Author:** [Stephan Pringle](https://www.stephanpringle.com/#aardvark)  
 **License:** GPLv3 or later  
-**Plugin URI:** [GitHub Repo](https://github.com/Sipylus/aardvark)
+**Plugin URI:** [GitHub Repo](https://github.com/nyhtml/aardvark)
 
 ## 🔍 Overview
 
