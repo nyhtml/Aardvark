@@ -6,6 +6,12 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [5.3.0]
+- Internal performance improvements.
+
+## [5.2.0]
+- Matched Social Media buttons to the official color schemes.
+
 ## [5.1.0]
 - Introduced additional Social Media buttons.
 - Internal performance improvements.
@@ -28,7 +34,6 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [2.0.0]
 - Introduced additional Social Media buttons.
-- Matched buttons to the official color schemes.
 - Internal performance improvements.
 
 ## [1.0.0]
