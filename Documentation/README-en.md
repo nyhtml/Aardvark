@@ -1,15 +1,12 @@
 # 🦋 Aardvark™
 
-**Version:** 5.2.0  
-**Author:** [Stephan Pringle](https://www.stephanpringle.com/#aardvark)  
+**Author:** [Stephan Pringle](https://www.stephanpringle.com)
 **License:** GPLv3 or later  
 **Plugin URI:** [GitHub Repo](https://github.com/nyhtml/aardvark)
 
 ## 🔍 Overview
 
-Aardvark™ is the Anomalous Architecture for Responsive Design & Virtual Asset Replication Kit — a modular WordPress plugin engineered for creators, developers, and digital architects who demand style, security, and control.
-
-Whether you're showcasing skills, resumes, or social networks, Aardvark™ delivers responsive shortcodes with inline styling and REST API hardening baked in.
+Aardvark™ is the Anomalous Architecture for Responsive Design & Virtual Asset Replication Kit — a modular WordPress plugin engineered for creators, developers, and digital architects who demand style, security, and control. Whether you're showcasing skills, resumes, or social networks, Aardvark™ delivers responsive shortcodes with inline styling and built-in REST API hardening.
 
 ## ✨ Features
 
@@ -23,7 +20,12 @@ Whether you're showcasing skills, resumes, or social networks, Aardvark™ deliv
 ## 🧩 Shortcodes
 
 Each shortcode is designed for modular use and responsive rendering.  
+- `cardResume` builds a resume page.
+- `cardSkill` builds a skills page or section.
+- `cardNetworks` builds a Social Network page or section.
+
 Examples and usage docs coming soon.
+
 
 ## 🛠️ Requirements
 
@@ -42,5 +44,6 @@ Examples and usage docs coming soon.
 Use the **Reset Settings** submenu to delete all plugin data. This does not uninstall the plugin.
 
 ## 🧠 Credits
-- Built by [Stephan Pringle](https://www.stephanpringle.com/#aardvark) ([nyhtml](https://github.com/nyhtml))
+
+- Author: [Stephan Pringle](https://www.stephanpringle.com) ([nyhtml](https://github.com/nyhtml))
 - Contributors: [Sipylus](https://github.com/Sipylus)
