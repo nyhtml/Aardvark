@@ -1,7 +1,7 @@
 <?php
 /**
  * itemcv.php — WP Resume Shortcodes compatibility shortcode for Aardvark
- * Version: 1.0.0
+ * Version: 1.1.0
  * Author: Stephan Pringle
  */
 
@@ -38,5 +38,6 @@ function my_itemcv_shortcode($atts, $content = null) {
         $content
     );
 }
-
+if (get_option('aardvark_itemcv_enabled', false)) {
 add_shortcode('itemcv', 'my_itemcv_shortcode');
+}
