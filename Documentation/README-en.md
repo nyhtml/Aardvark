@@ -41,10 +41,10 @@ Examples and usage docs coming soon.
 
 ## 🧼 Resetting
 
-Use the **Reset Settings** submenu to delete all plugin data.  
+Use the **Reset Settings** tab to delete all plugin data.  
 This does not uninstall the plugin.
 
 ## 🧠 Credits
 
 - Author: [Stephan Pringle](https://www.stephanpringle.com) ([nyhtml](https://github.com/nyhtml))
-- Contributors: [Sipylus](https://github.com/Sipylus)
+- Contributors:  [Stephan Pringle](https://www.stephanpringle.com) ([nyhtml](https://github.com/nyhtml)), [Sipylus](https://github.com/Sipylus)
