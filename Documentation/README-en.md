@@ -12,7 +12,7 @@ Aardvark™ is the Anomalous Architecture for Responsive Design & Virtual Asset 
 
 - 🛡️ REST API endpoint blocking for enhanced security  
 - ⚡ PHP & MySQL version display on dashboard  
-- 🎨 Custom shortcodes: `cardResume`, `cardSkill`, `cardNetworks`  
+- 🎨 Custom shortcodes: `cardNetworks`, `cardResume`, `cardSkill`  
 - 📱 Responsive design with inline styling  
 - 🔗 Social media integration via admin settings  
 - 🧹 One-click reset to purge plugin data
@@ -20,13 +20,12 @@ Aardvark™ is the Anomalous Architecture for Responsive Design & Virtual Asset 
 ## 🧩 Shortcodes
 
 Each shortcode is designed for modular use and responsive rendering.  
+- `cardNetworks` builds a Social Network page or section.
 - `cardResume` builds a resume page.
 - `cardSkill` builds a skills page or section.
-- `cardNetworks` builds a Social Network page or section.
 - `itemcv` builds a resume page with CV compatibility.
 
 Examples and usage docs coming soon.
-
 
 ## 🛠️ Requirements
 
