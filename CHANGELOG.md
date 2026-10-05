@@ -1,10 +1,18 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
+This file documents all notable changes to this project.
 
 This project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
+
+## [5.5.0]
+- Security enhancements and internal improvements.
+- Update the uninstall feature.
+
+## [5.4.0]
+- Internal performance improvements.
+- Support for `[itemcv]` from WP Resume Shortcodes
 
 ## [5.3.0]
 - Internal performance improvements.
