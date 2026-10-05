@@ -23,6 +23,7 @@ Each shortcode is designed for modular use and responsive rendering.
 - `cardResume` builds a resume page.
 - `cardSkill` builds a skills page or section.
 - `cardNetworks` builds a Social Network page or section.
+- `itemcv` builds a resume page with CV compatibility.
 
 Examples and usage docs coming soon.
 
