@@ -47,5 +47,5 @@ This does not uninstall the plugin.
 
 ## 🧠 Credits
 
-- Author: [Stephan Pringle](https://www.stephanpringle.com) ([nyhtml](https://github.com/nyhtml))
-- Contributors:  [Stephan Pringle](https://www.stephanpringle.com) ([nyhtml](https://github.com/nyhtml)), [Sipylus](https://github.com/Sipylus)
+- Author: [Stephan Pringle](https://www.stephanpringle.com)
+- Contributors: ([nyhtml](https://github.com/nyhtml)), [Sipylus](https://github.com/Sipylus)
